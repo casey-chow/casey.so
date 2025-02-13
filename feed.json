@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "casey.so",
+    "description": "",
+    "home_page_url": "https://casey.so",
+    "feed_url": "https://casey.so/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Casey Chow"
+    },
+    "items": [
+    ]
+}
